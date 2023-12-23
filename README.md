@@ -35,7 +35,7 @@ Welcome to the **Unit Converter** program! This simple C application allows user
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
+   git clone https://github.com/MishraJi-Devloper/unit-converter.git
    gcc unit_converter.c -o unit_converter
    ./unit_converter
 
