@@ -38,7 +38,5 @@ Welcome to the **Unit Converter** program! This simple C application allows user
    git clone https://github.com/yourusername/unit-converter.git
    gcc unit_converter.c -o unit_converter
    ./unit_converter
-   
-Copy and paste this into your README.md file in your GitHub repository. If you encounter any issues or have further questions, feel free to ask!
 
 
